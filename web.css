@@ -1,4 +1,5 @@
 data {
     left: 50px;
-    right: 50px;
+    right: 0px;
+    top : 100px;
 }
